@@ -78,7 +78,7 @@ header .container {
 
 .hero {
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('headerbg.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('assets/img/headerbg.png');
     background-size: cover;
     background-position: center;
     display: flex;
