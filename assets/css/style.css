@@ -180,6 +180,7 @@ main {
     margin-bottom: 1.5rem;
 }
 .content-wrapper p {
+    text-align: justify;
     font-size: 1rem;
     line-height: 1.8;
     color: #555;
@@ -190,6 +191,7 @@ main {
 .focus-list {
     list-style: none;
     padding-left: 0;
+    line-height: 1.8;
 }
 .focus-list li {
     font-size: 1rem;
@@ -377,7 +379,7 @@ footer .container {
         top: 90px;
         left: 0;
         width: 100%;
-        background-color: rgba(255, 255, 255, 0.2);
+        background-color: rgba(0, 0, 0, 0.9);
         padding: 20px 0;
     }
 
