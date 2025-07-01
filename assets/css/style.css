@@ -51,7 +51,7 @@ hr {
 .navbar ul {
     list-style: none;
     display: flex;
-    gap: 25px;
+    gap: 20px;
 }
 
 .navbar a {
@@ -94,7 +94,7 @@ hr {
 
 .hero {
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/headerbg.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/fablab.png');
     background-size: cover;
     background-position: center;
     display: flex;
