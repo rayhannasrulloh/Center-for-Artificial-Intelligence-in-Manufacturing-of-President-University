@@ -68,7 +68,7 @@ hr {
 }
 
 .navbar .active a {
-    background-color: rgba(128, 128, 128, 0.5); /* abu transparan */
+    background-color: rgba(128, 128, 128, 0.5);
 }
 
 .social-link a {
@@ -94,7 +94,7 @@ hr {
 
 
 .hero {
-    height: 80vh;
+    height: 90vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/setsail.jpg');
     background-size: cover;
     background-position: center;
