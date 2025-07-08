@@ -68,7 +68,7 @@ hr {
 }
 
 .navbar .active a {
-    background-color: rgba(16, 40, 80, 0.7);
+    background-color: rgba(128, 128, 128, 0.5); /* abu transparan */
 }
 
 .social-link a {
